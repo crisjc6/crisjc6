@@ -9,7 +9,7 @@ CRISTHIAN Ecuador I am a fullstack software developer focused on the web environ
 * 🌍  I'm based in Ecuador
 * 🖥️  See my portfolio at [Crisweb](http://www.crisweb.me)
 * ✉️  You can contact me at [sonclonmenax@gmail.com](mailto:sonclonmenax@gmail.com)
-* 🚀  I'm currently working on [Onixdev Empresa desarrollo de software](http://www.onixdev.com) <a href="https://www.onixdev.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/50051312/164508076-c9ddf4ea-bb98-4f2f-9662-b5ab7f30071d.png" width="36" height="36" alt="onixdev" /></a>
+* 🚀  I'm currently working on NTT DATA
 * 🧠  I'm learning Jamstack Tech, Gatsby, Nextjs, Pure CSS 
 * 🤝  I'm open to collaborating on Open source projects, web sites, libraries
 * ⚡  We spend our time helping you save it!
